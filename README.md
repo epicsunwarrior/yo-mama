@@ -1,4 +1,4 @@
-# Project Name
+# Yo Momma Generator
 
 ![image](https://farm8.staticflickr.com/7055/6899344713_a3f7f44921.jpg)
 
